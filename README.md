@@ -10,4 +10,6 @@ I therefore came up with the code that checks for the same and is 99% effective.
 
 Feel free to try out with VPN On and VPN off
 
+To use it include it in your PHP files.
+
 Buy Me a cup of tea on PayPal mikenjagike@gmail.com
