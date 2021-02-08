@@ -1,5 +1,6 @@
 # checkvpn
 CHECK IF A CLIENT IS USING A VPN OR PROXY WITH PHP
+
 I am developing an e-commerce website with PHP for a client who insists that customers who use VPN should be blocked from accessing the website. 
 I therefore came up with the code that checks for the same and is 99% effective. It has three functionalities:
 
